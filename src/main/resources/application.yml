@@ -1,5 +1,4 @@
-#server:
-#  port: 8085
-#  servlet.context-path: /
-#spring.profiles: default
+server:
+  servlet.context-path: /
+spring.profiles: default
  
