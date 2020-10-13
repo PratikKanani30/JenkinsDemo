@@ -1,1 +1,8 @@
 /target/
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/JenkinsDemo.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
