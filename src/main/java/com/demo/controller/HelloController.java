@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping(value = "api/greeting", produces = "application/json")
+
 public class HelloController {
 
     @GetMapping()
