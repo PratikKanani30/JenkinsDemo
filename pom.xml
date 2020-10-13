@@ -6,4 +6,10 @@
   <name>JenkinsDemo</name>
   <description>JenkinsDemo</description>
   <packaging>war</packaging>
+  
+  <properties>
+    <failOnMissingWebXml>false</failOnMissingWebXml>
+</properties>
+
+
 </project>
