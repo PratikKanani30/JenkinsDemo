@@ -11,6 +11,6 @@ public class HelloController {
 
     @GetMapping()
     public String getGreetings() {
-	return "Hello from jenkins";
+	return "Hello from jenkinsDemo";
 }
 }
